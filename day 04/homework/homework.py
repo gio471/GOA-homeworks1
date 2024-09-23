@@ -45,11 +45,4 @@ mother_age = 39
 grandfather_age = 81
 grandmother_age = 69
 
-print(my_age) 
-print(older_sister_age)
-print(younger_sister_age)
-print(father_age)
-print(mother_age)
-print(grandfather_age)
-print(grandmother_age)
-
+print(my_age + older_sister_age + younger_sister_age + father_age + mother_age + grandfather_age +grandmother_age ) 
