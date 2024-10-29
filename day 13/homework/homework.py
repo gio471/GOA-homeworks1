@@ -26,8 +26,7 @@ while num1 > 0:
 
 
 #while loop შეიძლება გამოიყენებოდეს მაშინ როდესაც არ იცი რამდენი იტერაცია დაგჭირდება
-for i in range(10,70,2):
+i = 10
+while i < 70:
     print(i)
-
-for i in range(25,57,2):
-    print(i)
+    print(i = i + 2)
