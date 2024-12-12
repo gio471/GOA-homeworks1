@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    background-color: rgb(14, 248, 5);
+}
+.first-div{
+    background-color: blue;
+    color: red;
+}
+.second-div{
+    background-color: aqua;
+    color: rgb(248, 156, 7);
+}
+.third-div{
+    background-color: chartreuse;
+    color: cornflowerblue;
+}

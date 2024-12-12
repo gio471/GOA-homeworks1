@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+.div-1{
+    background-color: blue;
+    color: green;
+}
+.div-2{
+    background-color: blue;
+    color: rgb(128, 0, 100);
+}
+.div-3{
+    background-color: blue;
+    color: rgb(253, 60, 6);
+}
+.div-4{
+    background-color: blue;
+    color: rgb(162, 10, 196);
+}
+.div-5{
+    background-color: blue;
+    color: rgb(237, 254, 3);
+}
