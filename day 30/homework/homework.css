@@ -1,0 +1,16 @@
+#h1{
+    color: aqua;
+    background-color: beige;
+    text-align: end;
+}
+.h-1{
+    color: rgb(201, 225, 225);
+    background-color: rgb(255, 255, 7);
+    text-align: center;
+}
+.b1{
+    color: blue;
+}
+button{
+    color: rgb(226, 9, 9);
+}

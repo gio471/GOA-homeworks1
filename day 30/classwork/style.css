@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+p{
+    color: blue;
+    background-color: cadetblue;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+    background-color: aqua;
+}
