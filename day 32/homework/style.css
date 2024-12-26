@@ -1,0 +1,51 @@
+#p1{
+   text-decoration: dotted underline green; 
+}
+
+#p2{
+    text-decoration: line-through; 
+ }
+#p{
+    text-decoration: double overline red;
+}
+
+#p3{
+    text-decoration: underline; 
+ }
+
+#p4{
+    text-decoration: dotted line-through green; 
+ }
+
+#p5{
+    text-decoration: line-through; 
+ }
+
+#p6{
+    text-decoration: overline; 
+ }
+
+#p7{
+    text-decoration: overline rgb(33, 237, 33); color: rgb(33, 237, 33)
+ }
+
+h1{
+    color: #808080;text-decoration: overline #808080;
+ }
+
+#p8{
+    text-decoration: dotted underline green; 
+}
+
+#wavy{
+   color: rgb(0,0,0); text-decoration: wavy underline green;
+}
+
+#red{
+    text-decoration: dashed overline underline rgb(244, 2, 2);
+}
+
+#middle{
+    text-decoration: dashed line-through #0000ff;
+}
+
