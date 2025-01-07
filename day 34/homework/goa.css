@@ -1,0 +1,73 @@
+body{
+    background-color: #111;
+}
+
+header{
+    background-color: burlywood;
+}
+
+#h1{
+    color: rgb(1, 248, 58);
+    text-align: center;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color: crimson;
+}
+
+#about-us{
+    
+    position: relative; 
+    top: 11px; 
+    left: -200px; 
+      
+}
+
+#ceo-of-goa{
+    position: relative; 
+    top: -30px; 
+    left: -50px;
+}
+
+#join-us{
+    position: relative; 
+    top: -69px; 
+    left: 70px;
+}
+
+#contact-us{
+    position: relative; 
+    top: -105px; 
+    left: 220px;
+}
+
+#section1{
+    background-color: green;
+    color: blue;
+}
+
+#section2{
+    background-color: gold;
+    color: aqua;
+}
+
+footer{
+    background-color: white;
+}
+#p{
+    color: white;
+}
+
+#youtube{
+    color: aquamarine;
+}
+
+#gold{
+    color: gold
+}
