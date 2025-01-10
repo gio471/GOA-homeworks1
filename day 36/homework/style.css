@@ -1,0 +1,36 @@
+body{
+    background-color: #111;
+}
+
+h1{
+    color: gold;
+}
+
+section{
+    background-color: red ;
+    color: blue;
+}
+#h1{
+    text-align: center;
+}
+.contact{
+    color: green;
+}
+.about{
+    color: yellow;
+}
+
+.purple{
+    background-color: blueviolet;
+}
+
+a{
+    text-decoration: none;
+    color: red
+}
+a:hover{
+    color:aqua
+}
+a:active{
+    color:rgb(60, 95, 25)
+}

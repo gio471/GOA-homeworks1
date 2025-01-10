@@ -1,0 +1,12 @@
+table :nth-child(even){
+    background-color: red;
+}
+table :nth-child(odd){
+    background-color: rgb(14, 86, 219);
+}
+table{
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: gray;
+}

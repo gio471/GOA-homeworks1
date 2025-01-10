@@ -1,0 +1,22 @@
+#div-1{
+    text-decoration: 300px;
+    background-color: rgb(76, 152, 217);
+}
+#div-1:hover{
+    background-color: chartreuse;
+    width: 500px;
+}
+
+#div-2{
+    text-decoration: 300px;
+    background-color: brown;
+}
+
+#div-2:hover{
+    background-color: rgb(74, 23, 125);
+    width: 500px;
+}
+
+a:hover{
+    color: chocolate;
+}

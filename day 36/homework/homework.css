@@ -1,0 +1,62 @@
+h1{ 
+    text-align: center;
+}
+
+th{
+    color:white;
+    background-color: green;
+}
+th:hover{
+    background-color: gray;
+}
+
+.td-1{
+    color:rgb(0, 0, 0)
+}
+
+.td-1:hover{
+    background-color: blueviolet;
+    color:crimson
+}
+
+.td-2:hover{
+    background-color: rgb(56, 213, 58);
+    color: lightcoral;
+}
+
+.td-3:hover{
+    background-color:rgb(15, 73, 51);
+    color:hotpink;
+}
+
+.td-5:hover{
+    background-color:saddlebrown;
+    color:darkslateblue ;
+}
+
+td{
+    color:rgb(78, 72, 72)
+}
+
+td:hover{
+    background-color: rgb(209, 12, 131);
+    color:gold
+}
+
+table{
+    border-collapse: collapse;
+}
+#centre{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    position: relative; 
+    top: -15px; 
+    left: 359px;
+}
+
+a{
+    color:green
+}
