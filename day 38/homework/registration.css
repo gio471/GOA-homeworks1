@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+#Body-2{
+    background-color: #711919;
+    font-family: "Jersey 15", serif;
+}
+h2{
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;;
+}
+input:hover{
+    background-color: #FF2D95;
+}
+#submit:hover{
+    color:green;
+    background-color: cornflowerblue;
+}
+a{
+    text-decoration: none;
+}

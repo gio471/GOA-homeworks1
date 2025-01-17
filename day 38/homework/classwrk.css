@@ -1,0 +1,8 @@
+ul{
+    list-style-position:inside;
+    list-style-type: circle;
+}
+ol{
+    list-style-position: outside;
+    list-style-type: lower-roman;
+}
